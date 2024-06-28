@@ -1,0 +1,43 @@
+body .btn {
+    color: white; 
+    background-color: #007bff; 
+    border-color: #007bff; 
+}
+
+body .h3 {
+
+    color: white;
+
+}
+
+body {
+    background-color: black;
+    color: rgb(153, 59, 59);
+    padding: 20px;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #007bff;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+.blue-arrow {
+    color: white;
+}
+
+.bg-secondary {
+    background-color: #343a40; 
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+h3 {
+
+    color: white;
+
+}
